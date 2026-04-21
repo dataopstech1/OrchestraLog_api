@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS nifi_process_groups;
+DROP TABLE IF EXISTS nifi_instances;
+DROP TABLE IF EXISTS hdfs_clusters;
+DROP TABLE IF EXISTS hive_tables;
+DROP TABLE IF EXISTS hive_instances;
+DROP TABLE IF EXISTS flink_jobs;
+DROP TABLE IF EXISTS flink_clusters;
+DROP TABLE IF EXISTS spark_applications;
+DROP TABLE IF EXISTS spark_clusters;

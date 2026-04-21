@@ -1,0 +1,15 @@
+DROP TABLE IF EXISTS n8n_workflows;
+DROP TABLE IF EXISTS n8n_instances;
+DROP TABLE IF EXISTS metabase_dashboards;
+DROP TABLE IF EXISTS metabase_instances;
+DROP TABLE IF EXISTS superset_dashboards;
+DROP TABLE IF EXISTS superset_instances;
+DROP TABLE IF EXISTS llm_deployments;
+DROP TABLE IF EXISTS jupyterhub_notebooks;
+DROP TABLE IF EXISTS jupyterhub_instances;
+DROP TABLE IF EXISTS feast_feature_views;
+DROP TABLE IF EXISTS feast_entities;
+DROP TABLE IF EXISTS feast_instances;
+DROP TABLE IF EXISTS mlflow_models;
+DROP TABLE IF EXISTS mlflow_experiments;
+DROP TABLE IF EXISTS mlflow_instances;

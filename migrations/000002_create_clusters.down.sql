@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS cluster_metrics;
+DROP TABLE IF EXISTS resources;
+DROP TABLE IF EXISTS namespaces;
+DROP TABLE IF EXISTS clusters;
